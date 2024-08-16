@@ -30,7 +30,11 @@ Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia,
   <a href = "mailto:yurivedovate@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuri-de-jesus-morais-vedovate-5547661a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/YuriJesusVedovate/YuriJesusVedovate/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuriJesusVedovate/YuriJesusVedovate/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuriJesusVedovate/YuriJesusVedovate/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuriJesusVedovate/YuriJesusVedovate/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 
