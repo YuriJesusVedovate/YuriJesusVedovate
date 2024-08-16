@@ -3,11 +3,14 @@
 Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, e atualmente trabalho como Desenvolvedor backend C# na Stefanini.
 
 ##
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
-</div>
+<table align="center">
+  <tr>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/></td>
+    <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dracula"/></td>
+    <td><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/></td>
+  </tr>
+</table>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yuri-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
