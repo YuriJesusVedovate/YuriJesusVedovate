@@ -1,12 +1,13 @@
 # Eae! Pessoal!
 
-Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, hoje trabalho como Desenvolvedor backend C# na Stefanini.
+Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, e atualmente trabalho como Desenvolvedor backend C# na Stefanini.
 
 ##
 <div align="center">
   <a href="https://github.com/YuriJesusVedovate">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
