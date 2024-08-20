@@ -3,7 +3,7 @@
 Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, e atualmente trabalho como Desenvolvedor backend C# na Stefanini.
 
 ##
-<div style="display: inline_block">
+<div style="display: inline_block" align ="center">
   <img Height="150em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dracula"/>
   <img Height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
   <img Height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
