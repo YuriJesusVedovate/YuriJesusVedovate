@@ -14,7 +14,7 @@ Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia,
   <img align="center" alt="Yuri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Yuri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Yuri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Baby-Yoda-pic" height="150" style="border-radius:360px;" src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif">
+  <img align="right" alt="Baby-Yoda-pic" height="150" border-radius="360px" src="https://c.tenor.com/7rMJZKO5CYYAAAAC/baby-yoda-hi.gif">
 </div><br>
   
 <div><br>
@@ -26,9 +26,9 @@ Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia,
 ##
 
 <div style="display: inline_block" align ="center">
-  <img Height="170em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dracula"/>
-  <img Height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
-  <img Height="338em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
+  <img Height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&count_private=true&include_all_commits=true&theme=dracula"/>
+  <img Height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriJesusVedovate&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>	
+  <img Height="318em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriJesusVedovate&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula"/>
 </div>
 
 <picture align ="center">
