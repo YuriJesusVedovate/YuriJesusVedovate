@@ -1,5 +1,6 @@
 <img align="center" alt="Yuri-Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQHx72JLLId7Jw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682118665015?e=1729728000&v=beta&t=aziAwgpqKxivSSrnoTunPHuru-eJl0Hih6dWHtGzrCQ">
 
+
 # Eae! Pessoal!
 
 Meu nome é Yuri Vedovate, sou um eterno aprendiz que gosta muito de tecnologia, e atualmente trabalho como Desenvolvedor backend C# na Stefanini.
